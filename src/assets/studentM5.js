@@ -48,5 +48,10 @@ export const m5_data =
             "id": 9,
             "name": "Stephanie",
             "img": "./src/stundentPics/M5/Stephanie.png"
+        },
+        {
+            "id": 10,
+            "name": "Jam",
+            "img": "./src/stundentPics/M5/Jam.png"
         }
     ]
